@@ -18,3 +18,6 @@ Os cógidos disponibilizados abaixo, ainda não possuem um tratamento para erros
 - Pilhas
     - [Implementada com Vetor](https://github.com/anajoyceamorim/Estrutura-de-Dados/blob/master/pilhas_vet_anaVersion.c)
     - [Implementada com Listas Encadeadas](https://github.com/anajoyceamorim/Estrutura-de-Dados/blob/master/pilhas_le_anaVersion.c)
+
+  ### Observação:
+  Serão adicionados mais códigos e implementado a versão com erros de usuários

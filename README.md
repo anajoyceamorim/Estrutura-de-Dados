@@ -10,3 +10,11 @@ Os cógidos disponibilizados abaixo, ainda não possuem um tratamento para erros
 
 - Listas Encadeadas
   - [Sem Head](https://github.com/anajoyceamorim/Estrutura-de-Dados/blob/master/le_anaVersion_semHead.c)
+  - [Com Head](https://github.com/anajoyceamorim/Estrutura-de-Dados/blob/master/le_anaVersion_comHead.c)
+
+- Filas
+  - [Implementada com Vetor](https://github.com/anajoyceamorim/Estrutura-de-Dados/blob/master/filas_vet_anaVersion.c)
+
+- Pilhas
+    - [Implementada com Vetor](https://github.com/anajoyceamorim/Estrutura-de-Dados/blob/master/pilhas_vet_anaVersion.c)
+    - [Implementada com Listas Encadeadas](https://github.com/anajoyceamorim/Estrutura-de-Dados/blob/master/pilhas_le_anaVersion.c)
